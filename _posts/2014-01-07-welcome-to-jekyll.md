@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Case of Dr Jekyll and Mr Hyde"
 date: 2014-01-07 12:00:00
-categories: jekyll
+categories: tungns
 featured_image: /images/cover.jpg
 ---
 
