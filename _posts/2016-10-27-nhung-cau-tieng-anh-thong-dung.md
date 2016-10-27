@@ -415,4 +415,126 @@ Tổng hợp những câu tiêngs anh thông dụng hàng ngày.
 364.You've made a good choice. Bạn đã lựa chọn đúng<br/>
 365.Your satisfaction is guaranteed. Đảm bảo ban sẽ hài lòng<br/>
 
-Sưu tầm 
+## 50 câu tiếng anh giao tiếp thông dụng</br>
+1. What's up? - Có chuyện gì vậy? </br>
+
+2. How's it going? - Dạo này ra sao rồi? </br>
+
+3. What have you been doing? - Dạo này đang làm gì? </br>
+
+4. Nothing much. - Không có gì mới cả. </br>
+
+5. What's on your mind? - Bạn đang lo lắng gì vậy? </br>
+
+6. I was just thinking. - Tôi chỉ nghĩ linh tinh thôi.</br>
+
+7. I was just daydreaming. - Tôi chỉ đãng trí đôi chút thôi. </br>
+
+8. It's none of your business. - Không phải là chuyện của bạn. </br>
+
+9. Is that so? - Vậy hả?</br>
+10. How come? - Làm thế nào vậy?</br>
+
+11. Absolutely! - Chắc chắn rồi! </br>
+
+12. Definitely! - Quá đúng! </br>
+
+13. Of course! - Dĩ nhiên! </br>
+
+14. You better believe it! - Chắc chắn mà.</br>
+
+15. I guess so. ( hoc tieng anh ) - Tôi đoán vậy.</br>
+
+16. There's no way to know. - Làm sao mà biết được.</br>
+
+17. I can't say for sure. - Tôi không thể nói chắc.</br>
+
+18. This is too good to be true! - Chuyện này khó tin quá!</br>
+
+19. No way! (Stop joking!) - Thôi đi (đừng đùa nữa).</br>
+
+20. I got it. - Tôi hiểu rồi.</br>
+
+21. Right on! (Great!) - Quá đúng!</br>
+
+22. I did it! (I made it!) - Tôi thành công rồi!</br>
+
+23. Got a minute? - Có rảnh không?</br>
+
+24. About when? - Vào khoảng thời gian nào? </br>
+
+25. I won't take but a minute. - Sẽ không mất nhiều thời gian đâu.</br>
+
+26. Speak up! - Hãy nói lớn lên. </br>
+
+27. Seen Melissa? - Có thấy Melissa không? </br>
+
+28. So we've met again, eh? - Thế là ta lại gặp nhau phải không? 
+
+29. Come here. - Đến đây. </br>
+
+30. Come over. - Ghé chơi.</br>
+
+32. Please go first. After you. - Xin nhường đi trước. Tôi xin đi sau. </br>
+
+33. Thanks for letting me go first. - Cám ơn đã nhường đường. </br>
+
+34. What a relief. - Thật là nhẹ nhõm.</br>
+
+35. What the hell are you doing? - Anh đang làm cái quái gì thế kia? </br>
+
+36. You're a life saver. - Bạn đúng là cứu tinh.</br>
+
+37. I know I can count on you. - Tôi biết mình có thể trông cậy vào bạn mà.</br>
+
+38. Get your head out of your ass! - Đừng có giả vờ khờ khạo! </br>
+
+39. That's a lie! - Xạo quá! </br>
+
+40. Do as I say. - Làm theo lời tôi.</br>
+
+41. This is the limit! - Đủ rồi đó! </br>
+
+42. Explain to me why. - Hãy giải thích cho tôi tại sao.</br>
+
+43. Ask for it! - Tự mình làm thì tự mình chịu đi!</br>
+
+44. In the nick of time. - Thật là đúng lúc.</br>
+
+45. No litter. - Cấm vứt rác.</br>
+
+46. Go for it! - Cứ liều thử đi.</br>
+
+47. What a jerk! - Thật là đáng ghét.</br>
+
+48. How cute! - Ngộ ngĩnh, dễ thương quá!
+
+49. None of your business! - Không phải việc của bạn.</br>
+
+50. Don't peep! - Đừng nhìn lén!</br>
+Bên cạnh đó, bạn cũng có thể học thêm 25 câu tiếng anh thông dụng sử dụng trong các tình huống khác:</br>
+1. Say cheese! Cười lên nào ! (Khi chụp hình)</br>
+2. Be good ! Ngoan nhá! (Nói với trẻ con)</br>
+3. Bottom up!100% nào! (Khi…đối ẩm)  (???????)</br>
+4. Me? Not likely!Tao hả? Không đời nào!</br>
+5. Scratch one’s head: Nghĩ muốn nát óc</br>
+6. Take it or leave it! Chịu thì lấy, không chịu thì thôi!</br>
+7. Hell with haggling! Thấy kệ nó!</br>
+8. Mark my words! Nhớ lời tao đó!</br>
+9. Bored to death! Chán chết!</br>
+10. What a relief! Đỡ quá!</br>
+11. Enjoy your meal ! Ăn ngon miệng nhá!</br>
+12. Go to hell ! Đi chết đi! (Đừng có nói câu này nhiều nha!)</br>
+13. It serves you right! Đáng đời mày!</br>
+14. The more, the merrier! Càng đông càng vui (Especially when you’re holding a party)</br>
+15. Beggars can’t be choosers! Ăn mày còn đòi xôi gấc</br>
+16. Boys will be boys!Nó chỉ là trẻ con thôi mà!</br>
+17. Good job!= well done! Làm tốt lắm!</br>
+18. Go hell! chết đi, đồ quỷ tha ma bắt</br>
+19. Just for fun! Cho vui thôi</br>
+20. Try your best! Cố gắng lên (câu này chắc ai cũng biết)</br>
+21. Make some noise! Sôi nổi lên nào!</br>
+22. Congratulations! Chúc mừng!</br>
+23. Rain cats and dogs. Mưa tầm tã (than vãn, bình phẩm khi trời mưa to)</br>
+24. Love me love my dog. Yêu em yêu cả đường đi, ghét em ghét cả tông ty họ hàng</br>
+25. Strike it. Trúng quả</br>
