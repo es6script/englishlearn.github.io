@@ -9,11 +9,11 @@ featured_image: /images/cover.jpg
 Tổng hợp những câu tiêngs anh thông dụng hàng ngày.
 
 ## Ngày thứ nhất
-1.Absolutely. (Dùng để trả lời) Đúng thế, vậy đó, đương nhiên rồi, chắc là vậy rồi.</br>
-2.Absolutely impossible! Không thể nào! Tuyệt đối không có khả năng đó.
-3.All I have to do is learn English. Tất cả những gì tôi cần làm là học tiếng Anh.
-4.Are you free tomorrow? Ngày mai cậu rảnh không?
-5.Are you married? Ông đã lập gia đình chưa?
+1.Absolutely. (Dùng để trả lời) Đúng thế, vậy đó, đương nhiên rồi, chắc là vậy rồi.<br/>
+2.Absolutely impossible! Không thể nào! Tuyệt đối không có khả năng đó.<br/>
+3.All I have to do is learn English. Tất cả những gì tôi cần làm là học tiếng Anh.<br/>
+4.Are you free tomorrow? Ngày mai cậu rảnh không?<br/>
+5.Are you married? Ông đã lập gia đình chưa?<br/>
 6.Are you used to the food here? Cậu ăn có quen đồ ăn ở đây không?
 7.Be careful. Cẩn thận/ chú ý
 8.Be my guest. Cứ tự nhiên/ đừng khách sáo!
@@ -22,7 +22,7 @@ Tổng hợp những câu tiêngs anh thông dụng hàng ngày.
 11.Better safe than sorry. Cẩn thận sẽ kô xảy ra sai sót.
 12.Can I have a day off? Tôi có thể xin nghỉ một ngày được không?
 
-Ngày thứ 2
+## Ngày thứ 2
 14.Can I take a message? Có cần tôi chuyển lời không?
 15.Can I take a rain check? Cậu có thể mời mình bữa khác được không?
 16.Can I take your order? Ông muốn chọn món không?
@@ -50,7 +50,7 @@ Ngày thứ 2
 38.Do you speak English? Cậu biết nói tiếng Anh không?
 39.Don't be so modest. Đừng khiêm tốn thế.
 
-Ngày thứ 3
+## Ngày thứ 3
 40.Don't bother. Đừng có phiền phức nữa.
 41.Don't get me wrong. Đừng hiểu lầm tôi
 42.Don't give up. Đừng từ bỏ.
@@ -75,7 +75,7 @@ Ngày thứ 3
 61.Have you ever been to Japan? Anh đã từng đến Nhật bao giờ chưa?
 62.Have you finished yet? Cậu đã làm xong chưa?
 
-Ngày thứ 4
+## Ngày thứ 4
 63.Have you got anything larger? Có cái nào lớn hơn chút nữa không?
 64.Have you got that? Cậu hiểu ý tôi chứ?
 65.Have you heard from Mary? Cậu có tin tức gì về Mary không?
@@ -93,7 +93,7 @@ Ngày thứ 4
 77.I apologize. Tôi xin lỗi
 78.I appreciate your invitation. Cám ơn lời mời của anh.
 
-Ngày thứ 5
+## Ngày thứ 5
 79.I assure you. Tôi đảm bảo với anh đấy!
 80.I bet you can. Tôi tin chắc rằng anh có thể làm được.
 81.I can manage. Tôi có thể tự mình ứng phó được.
@@ -119,7 +119,7 @@ Ngày thứ 5
 101.I hope you'll forgive me. Tôi hi vọng cậu sẽ tha thứ cho tôi.
 102.I know the feeling. Tôi rất hiểu cảm giác đó.
 
-Ngày thứ 6
+## Ngày thứ 6
 103.I mean what I say. Tôi biết những gì mình nói.
 104.I owe you one. Tôi nợ anh.
 105.I really regret it. Quả thật tôi rất lấy làm tiếc.
@@ -144,7 +144,7 @@ Ngày thứ 6
 124.I'll give you a hand. Tôi sẽ giúp cậu một tay.
 125.I'll have to see about that. Về việc này tôi phải nghĩ một chút rồi mới quyết định.
 
-Ngày thứ 7
+## Ngày thứ 7
 126.I'll keep my eyes open. Tôi sẽ lưu ý đến điều đó.
 127. I'll keep that in mind. Tôi sẽ ghi nhớ.
 128.I'll pick up the tab. Để tôi tính tiền.
@@ -169,7 +169,7 @@ Ngày thứ 7
 147.I'm looking for a part-time job.
 148.I'm looking forward to it. Tôi đang mong ngóng điều đó.
 
-Ngày thứ 8
+## Ngày thứ 8
 149.I'm lost. Tôi bị làm cho hồ đồ rồi.
 150.I'm not feeling well. Tôi cảm thấy không được khỏe.
 151.I'm not myself today. Hôm nay tôi bị làm sao ấy.
@@ -190,7 +190,7 @@ Ngày thứ 8
 166.If I were in your shoes. Nếu tôi đứng vào vị trí của anh./ Nếu như tôi đứng trên lập trường của anh.
 167.Is that OK? Như thế được không?
 
-Ngày thứ 9
+## Ngày thứ 9
 168.Is this seat taken? Chỗ này có người ngồi không?
 169.It all depends. Còn tùy vào tình hình.
 170.It can happen to anyone. Điều này có thể xảy ra đối với bất cứ ai.
@@ -210,7 +210,7 @@ Ngày thứ 9
 184.It's nice meeting you. Rất vui được biết anh.
 
 
-Ngày thứ 10
+## Ngày thứ 10
 185.It's a deal. Nhất định thế nhé!
 186.It's a long story. Một lời thật khó mà nói hết!
 187.It's a nice day today. Hôm nay thời tiết rất đẹp.
@@ -222,7 +222,7 @@ Ngày thứ 10
 193.It's about time. Gần hết thời gian rồi./ cũng đến lúc rồi đấy.
 194.It's all my fault. Tất cả đều là lỗi của tôi.
 
-Ngày thứ 11
+## Ngày thứ 11
 195.It's awesome. Tuyệt qúa! Cừ quá!
 196.It's awful. Thật khủng khiếp.
 197.It's been a long time. Lâu rồi không gặp.
@@ -237,7 +237,7 @@ Ngày thứ 11
 206.It's nothing. Chẳng là gì hết
 207.It's only a matter of time. Chỉ là vấn đề thời gian
 
-Ngày thứ 12
+## Ngày thứ 12
 208.It's out of the question. Điều đó không thể được/ Không bàn đến nó nửa
 209.It's time for dinner. Đến giờ ăn tối rồi
 210.It's up in the air. Không chắc chắn/ đang lưỡng lự
@@ -260,7 +260,7 @@ Ngày thứ 12
 227.Let's find out. Để chúng tôi tìm ra/ để chúng tôi khám phá
 228.Let's get to the point. Vào thẳng vấn đề
 
-Ngày thứ 13
+## Ngày thứ 13
 229.Let's get together sometime. Khi nào đi chơi nhé
 230.Let's hope for the best. Hy vọng mọi chuyện sẽ ổn
 231.Let's keep in touch. Giữ liên lạc nhé
@@ -279,7 +279,7 @@ Ngày thứ 13
 244.My mouth is watering. Tôi đang them chảy nước miếng nè ( nhất là khi mấy bạn nữ ăn me)
 245.My phone was out of order. Điện thoại của tôi hư rồi
 
-Ngày thứ 14
+## Ngày thứ 14
 246.No pain,no gain. Không vấp ngã thì không trưởng thành được/ không khó khăn thì không thành công
 247.No problem. Không có chi
 248.Nothing is impossible to a willing heart. Có chí là làm gì cũng được/ quyết tâm thì không có gì khó hết
@@ -298,7 +298,7 @@ Ngày thứ 14
 261.Suit yourself. Thích thì cứ làm/tùy bạn thôi
 262.Take care. Bảo trọng
 
-Ngày thứ 15
+## Ngày thứ 15
 263.Take it or leave it. Chịu hay không?
 264.Take my word for it. Dạy nó theo cách của tôi
 265.Take your time. Cứ thư thả/ vẫn còn thời gian
@@ -319,7 +319,7 @@ Ngày thứ 15
 280.That's for sure. Chắc chắn là vậy
 281.That's good to know. Biết được thì tốt quá
 
-Ngày thứ 16
+## Ngày thứ 16
 282.That's just what I was thinking.
 283.That's life. Cuộc đời là vậy đó
 284.That's more like it. Phải như vậy chứ/ tớ đã nói mà lị
@@ -334,7 +334,7 @@ Ngày thứ 16
 293.The shortest answer is doing. Đơn giản là phải làm thôi
 294.The sooner,the better. Càng sớm càng tốt
 
-Ngày thứ 17
+## Ngày thứ 17
 295.There is a call for you. Cậu có điện thoại nè
 296.There is no doubt about it. Không nghi ngờ gì nửa
 297.There is nothing I can do. Tôi không thể làm gì được nửa
@@ -355,7 +355,7 @@ Ngày thứ 17
 312.What are you talking about? Bạn đang nói gì thế
 313.What are your plans for the weekend? Có kế hoạch gì cho cuối tuần chưa?
 
-Ngày thứ 18
+## Ngày thứ 18
 314.What can I do for you? Tôi có thể làm gì cho bạn
 315.What do you do for relaxation? Bạn làm gì để giải trí?
 316.What do you recommend? Bạn giới thiệu gì nè?
@@ -372,7 +372,7 @@ Ngày thứ 18
 327.What's the weather like? Thời tiết như thế nào?
 328.What's your favorite food? Bạn thích ăn món gì?
 
-Ngày thứ 19
+## Ngày thứ 19
 329.What's your job? Bạn làm nghề gì?
 330.Whatever you think is fine with me. Chuyện gì bạn nghĩ cũng tốt cho tôi hểt
 331.When is the most convenient time for you? Thời gian thích hợp nhất cho bạn là lúc nào?
@@ -387,7 +387,7 @@ Ngày thứ 19
 340.Who is in charge here? Ai phụ trách ở đây?
 341.Would you care for a drink? Muốn uống gì không?
 
-Ngày thứ 20
+## Ngày thứ 20
 342.Would you do me a favor? Bạn có thể giúp tôi được không?
 343.You are just saying that. Bạn chỉ biết nói thôi/ giỏi cái miệng à
 344.You are kidding. Bạn đang đùa hả?
@@ -404,7 +404,7 @@ Ngày thứ 20
 355.You said it. Bạn nói đó nha / bạn đã nói như vậy mà
 356.You should give it a try. Bạn nên thử xem
 
-Ngày thứ 21
+## Ngày thứ 21
 357.You should take advantage of it. Bạn nên nhìn nhận cái tốt của nó/bạn nên nắm bắt cơ hooij
 358.You will be better off. Bạn sẽ tốt hơn thôi(sau sự cố gì đó, thất tình chẳng hạn)
 359.You will have to wait and see. Hãy đợi đấy/ chờ rồi xem
