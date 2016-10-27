@@ -9,7 +9,7 @@ featured_image: /images/cover.jpg
 Tổng hợp những câu tiêngs anh thông dụng hàng ngày.
 
 ## Ngày thứ nhất
-1.Absolutely. (Dùng để trả lời) Đúng thế, vậy đó, đương nhiên rồi, chắc là vậy rồi.
+1.Absolutely. (Dùng để trả lời) Đúng thế, vậy đó, đương nhiên rồi, chắc là vậy rồi.</br>
 2.Absolutely impossible! Không thể nào! Tuyệt đối không có khả năng đó.
 3.All I have to do is learn English. Tất cả những gì tôi cần làm là học tiếng Anh.
 4.Are you free tomorrow? Ngày mai cậu rảnh không?
