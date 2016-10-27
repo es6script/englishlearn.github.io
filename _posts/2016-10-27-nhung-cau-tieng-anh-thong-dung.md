@@ -538,3 +538,119 @@ Bên cạnh đó, bạn cũng có thể học thêm 25 câu tiếng anh thông d
 23. Rain cats and dogs. Mưa tầm tã (than vãn, bình phẩm khi trời mưa to)</br>
 24. Love me love my dog. Yêu em yêu cả đường đi, ghét em ghét cả tông ty họ hàng</br>
 25. Strike it. Trúng quả</br>
+
+
+## Ngày thứ nhất khi bắt đầu học tiếng Anh giao tiếp hàng ngày, hãy cố gắng học 20 câu dưới đây:
+
+What's up? - Có chuyện gì vậy?
+How's it going? - Dạo này ra sao rồi?
+What have you been doing? - Dạo này đang làm gì?
+Nothing much. - Không có gì mới cả.
+What's on your mind? - Bạn đang lo lắng gì vậy?
+I was just thinking. - Tôi chỉ nghĩ linh tinh thôi.
+I was just daydreaming. - Tôi chỉ đãng trí đôi chút thôi.
+It's none of your business. - Không phải là chuyện của bạn.
+Is that so? - Vậy hả?
+How come? - Làm thế nào vậy?
+Absolutely! - Chắc chắn rồi!
+Definitely! - Quá đúng!
+Of course! - Dĩ nhiên!
+You better believe it! - Chắc chắn mà.
+I guess so. - Tôi đoán vậy.
+There's no way to know. - Làm sao mà biết được.
+I can't say for sure. - Tôi không thể nói chắc.
+This is too good to be true! - Chuyện này khó tin quá!
+No way! (Stop joking!) - Thôi đi (đừng đùa nữa).
+I got it. - Tôi hiểu rồi.
+
+## Bạn nhớ đến đâu rồi? chúng ta học tiếp những câu tiếng Anh giao tiếp hàng ngày ở ngày tiếp theo nhé!
+
+Right on! (Great!) - Quá đúng!
+I did it! (I made it!) - Tôi thành công rồi!
+Got a minute? - Có rảnh không?
+About when? - Vào khoảng thời gian nào?
+I won't take but a minute. - Sẽ không mất nhiều thời gian đâu.
+Speak up! - Hãy nói lớn lên.
+Seen Melissa? - Có thấy Melissa không?
+So we've met again, eh? - Thế là ta lại gặp nhau phải không?
+Come here. - Đến đây.
+Come over. - Ghé chơi.
+Don't go yet. - Đừng đi vội.
+Please go first. After you. - Xin nhường đi trước. Tôi xin đi sau.
+Thanks for letting me go first. - Cám ơn đã nhường đường.
+What a relief. - Thật là nhẹ nhõm.
+What the hell are you doing? - Anh đang làm cái quái gì thế kia?
+You're a life saver. - Bạn đúng là cứu tinh.
+I know I can count on you. - Tôi biết mình có thể trông cậy vào bạn mà.
+Get your head out of your ass! - Đừng có giả vờ khờ khạo!
+That's a lie! - Xạo quá!
+Do as I say. - Làm theo lời tôi.
+
+## Wow! Đến hôm nay, bạn đã áp dụng được bao nhiêu câu phía trên trong giao tiếp tiếng Anh hàng ngày của mình rồi?  Ghi nhớ tiếp những câu tiếng Anh giao tiếp hàng ngày sau nhé:
+
+This is the limit! - Đủ rồi đó!
+Explain to me why. - Hãy giải thích cho tôi tại sao.
+Ask for it! - Tự mình làm thì tự mình chịu đi!
+In the nick of time. - Thật là đúng lúc.
+No litter. - Cấm vứt rác.
+Go for it! - Cứ liều thử đi.
+What a jerk! - Thật là đáng ghét.
+How cute! - Ngộ ngĩnh, dễ thương quá!
+None of your business! - Không phải việc của bạn.
+Don't peep! - Đừng nhìn lén!
+Say cheese! - Cười lên nào ! (Khi chụp hình)
+Be good ! - Ngoan nhá! (Nói với trẻ con)
+Bottom up! - 100% nào! (Khi…đối ẩm)
+Me? Not likely! - Tôi hả? Không đời nào!
+Scratch one’s head: Nghĩ muốn nát óc
+Take it or leave it! - Chịu thì lấy, không chịu thì thôi!
+Hell with haggling! - Thôi kệ nó!
+Mark my words! - Nhớ lời tao đó!
+Bored to death! - Chán chết!
+What a relief! - Đỡ quá!
+
+## Có vẻ nản quá nhỉ. Đừng nản thế chứ! Đây đều là những câu tiếng Anh giao tiếp hàng ngày hết sức đơn giản và dễ dùng. Chúng ta cùng học tiếp nào.
+
+Enjoy your meal! - Ăn ngon miệng nhá!
+It serves you right! - Đáng đời mày!
+The more, the merrier! - Càng đông càng vui
+Beggars can’t be choosers! - Ăn mày còn đòi xôi gấc
+Boys will be boys! - Nó chỉ là trẻ con thôi mà!
+Good job!= well done! - Làm tốt lắm!
+Just for fun! - Cho vui thôi
+Try your best! - Cố gắng lên
+Make some noise! - Sôi nổi lên nào!
+Congratulations! - Chúc mừng!
+Rain cats and dogs. - Mưa tầm tã
+Love me love my dog. - Yêu em yêu cả đường đi, ghét em ghét cả tông ty họ hàng
+Always the same. - Trước sau như một
+Hit it off. - Tâm đầu ý hợp
+Hit or miss. - Được chăng hay chớ
+Add fuel to the fire. - Thêm dầu vào lửa
+To eat well and can dress beautifully. - Ăn trắng mặc trơn
+Don’t mention it! = You’re welcome = That’s all right! - Không có chi
+Just kidding. - Chỉ đùa thôi
+
+## Khi đã tạo cho mình thói quen học hành thì mọi thứ không còn quá khó khăn với chúng ta nữa. Chúng ta học nốt 20 câu cuối cùng trong chuỗi 100 câu giao tiếp tiếng Anh hàng ngày này nhé!
+
+No, not a bit. - Không chẳng có gì
+Nothing particular! - Không có gì đặc biệt cả
+After you. - Bạn trước đi
+Have I got your word on that? - Tôi có nên tin vào lời hứa của anh không?
+The same as usual! - Giống như mọi khi
+Almost! - Gần xong rồi
+You‘ll have to step on it. - Bạn phải đi ngay
+I’m in a hurry. - Tôi đang bận
+What the hell is going on? - Chuyện quái quỷ gì đang diễn ra vậy?
+Sorry for bothering! - Xin lỗi vì đã làm phiền
+Give me a certain time! - Cho mình thêm thời gian
+It’s a kind of once-in-life! - Cơ hội ngàn năm có một
+Out of sight, out of mind! - Xa mặt cách lòng
+The God knows! - Chúa mới biết được
+Women love through ears, while men love through eyes! - Con gái yêu bằng tai, con trai yêu bằng mắt.
+Poor you/me/him/her…! - tội nghiệp bạn / tôi / hắn / cô ấy quá
+Go away! - Cút đi
+Let me see. - Để tôi xem đã / Để tôi suy nghĩ đã
+None your business. - Không phải việc của bạn.
+Mark my words!  - Nhớ lời tao đó!
+Love me love my dog. - Yêu em yêu cả đường đi, ghét em ghét cả tông ty họ hàng
