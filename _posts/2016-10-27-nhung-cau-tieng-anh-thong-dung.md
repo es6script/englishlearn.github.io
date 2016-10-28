@@ -654,3 +654,8 @@ Let me see. - Để tôi xem đã / Để tôi suy nghĩ đã<br/>
 None your business. - Không phải việc của bạn.<br/>
 Mark my words!  - Nhớ lời tao đó!<br/>
 Love me love my dog. - Yêu em yêu cả đường đi, ghét em ghét cả tông ty họ hàng<br/>
+
+## Thành Ngữ GoiPHan
+
+1 That will be the day . "Mặt trời mọc ở đằng tây"
+2 Where there is a will, there is a way "Có chí thì nên"
