@@ -68,3 +68,52 @@ console.log(isTwoPresent);
 //> true
 
 {% endhighlight javascript %} 
+
+
+Are you finish : continue :D
+
+Getting array items from behind to front
+If you want to get the array items from behind to front, just do this:
+
+{% highlight javascript %} 
+var newArray = [1, 2, 3, 4];
+
+console.log(newArray.slice(-1)); // [4]
+console.log(newArray.slice(-2)); // [3, 4]
+console.log(newArray.slice(-3)); // [2, 3, 4]
+console.log(newArray.slice(-4)); // [1, 2, 3, 4]
+
+{% endhighlight javascript %} 
+
+Short-circuits conditionals
+If you have to execute a function just if a condition is true, like this:
+
+{% highlight javascript %} 
+
+if(condition){
+    dosomething();
+}
+{% endhighlight javascript %} 
+
+You can use a short-circuit just like this:
+
+`condition && dosomething();`
+
+Set variable default values using “||”
+If you have to set a default value to variables, you can simple do this:
+
+{% highlight javascript %} 
+
+var a;
+
+console.log(a); //undefined
+
+a = a || 'default value';
+
+console.log(a); //default value
+
+a = a || 'new value';
+
+console.log(a); //default value
+
+{% endhighlight javascript %} 
