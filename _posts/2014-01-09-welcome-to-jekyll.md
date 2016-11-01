@@ -14,6 +14,11 @@ Stevenson had long been intrigued by the idea of how personalities can affect a 
 
 > "In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: 'Why did you wake me? I was dreaming a fine bogey tale.' I had awakened him at the first transformation scene."
 
+`javascript`
+function(){
+}
+`endjavascript`
+
 ## Main Characters
 
 The story revolves around **8 main characters**:
