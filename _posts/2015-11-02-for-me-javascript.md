@@ -70,7 +70,7 @@ console.log(isTwoPresent);
 {% endhighlight javascript %} 
 
 
-Are you finish : continue :D
+## Are you finish : continue :D
 
 Getting array items from behind to front
 If you want to get the array items from behind to front, just do this:
