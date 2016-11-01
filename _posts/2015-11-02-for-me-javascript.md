@@ -35,6 +35,7 @@ A quick approach is to use .forEach but then we lack the ability to break. In th
 //> 0, 1, 3, 4
 
 {% endhighlight javascript %} 
+
 The .some is a method on Array prototype. It tests whether some element in the array passes the test implemented by the provided function. If any value is returning true, then it stops executing. Here is a MDN link for more details.
 An example quoted from that link
 
@@ -53,6 +54,7 @@ Using .some we get iteration functionally similar to .forEach but with the abili
 //> 0, 1
 
 {% endhighlight javascript %} 
+
 You keep returning false to make it continue to next item. When you return true, the loop will break and a.some(..) will return true.
 
 {% highlight javascript %} 
