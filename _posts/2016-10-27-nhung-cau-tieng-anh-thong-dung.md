@@ -1818,6 +1818,7 @@ Love me love my dog. - Yêu em yêu cả đường đi, ghét em ghét cả tôn
 1 That will be the day . "Mặt trời mọc ở đằng tây"<br/>
 2 Where there is a will, there is a way "Có chí thì nên"<br/>
 3 Years bring wisdom "Gừng càng gìa càng cay "<br/>
+4 It's not empty word "Đó không phải là lời vô nghĩa"<br/>
 
 Hello! Did you sleep well last night? dem qua ban ngủ ngon chứ <br/>
 
